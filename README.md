@@ -3,7 +3,9 @@ Using Python, I created an application that uses the cryptographic technology be
 
 # How to run the code?
 Execute the main.py file with python.
+
 Set numbers for all three rotor that prompt. 
+
 Enter the sentence to be encrypted/decrypted in the prompt and press ENTER. 
 
 Note : The code will decrypt the encrypted text with same keycode(rotor numbers)
